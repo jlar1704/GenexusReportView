@@ -1,0 +1,89 @@
+.div-card {
+    max-width: 1000px;
+    padding-left: 10px;
+    background-color: #f7f7f7;
+    color: rgba(0, 0, 0, .54);
+    border: 0.5px solid rgba(0, 0, 0, 0.54);
+    border-radius: 5px;
+}
+
+.detail {
+    max-width: 1000px;
+    padding-left: 10px;
+    background-color: white;
+    border: 0.5px solid rgba(0, 0, 0, 0.54);
+    border-radius: 0px 0px 5px 5px;
+    border-top: 0px;
+    height: 400px;
+}
+
+.title {
+    margin: 0 0 5px !important;
+}
+
+.margin-left {
+    margin-left: 10px;
+}
+
+.btn {
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.ng-star-inserted {
+    padding-left: 10px;
+    width: 490px;
+}
+
+.h1 {
+    color: rgba(0, 0, 0, .54);
+}
+
+.mat-card-header {
+    background-color: #f7f7f7;
+    padding: none;
+    font-weight: normal;
+    color: rgba(0, 0, 0, .54);
+    width: 100%;
+    border: 0.5px solid rgba(0, 0, 0, 0.54);
+    padding-top: 2px;
+    height: 22px;
+}
+
+.mat-card-content {
+    color: rgba(0, 0, 0, .54);
+    width: 100%;
+    border: 0.5px solid rgba(0, 0, 0, 0.54);
+    border-top: 0px;
+    padding-top: 2px;
+    height: 400px;
+}
+
+.margin-left {
+    margin-left: 10px;
+}
+
+.margin-left-2 {
+    margin-left: 50px;
+}
+
+.blue-color {
+    background-color: #002767;
+    color: white;
+}
+
+.gris-color {
+    background-color: #f7f7f7;
+    color: black;
+    font-weight: bold;
+}
+
+.mat-form-field {
+    margin-top: 10px;
+    border: 1px solid gray;
+    width: 460px;
+}
+
+::ng-deep .mat-form-field-underline {
+    display: none;
+}
